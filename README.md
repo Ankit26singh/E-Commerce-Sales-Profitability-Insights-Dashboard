@@ -62,10 +62,12 @@ This Power BI dashboard empowers the business to:
 •	Support data-driven decision-making through clear, interactive visualizations.
 
 How to Use / Open the Dashboard
-1.	Download the .pbix file from this repository.
-2.	Open it using Microsoft Power BI Desktop (latest version recommended).
-3.	Navigate through the interactive visuals using the slicers, filters, and region/category selectors.
-4.	Refresh the data connection if connected to an external database (optional).
+1.	The Power BI file is available here:  
+    [https://drive.google.com/file/d/1uD4Plw6XiJtR8tfHJhL7dv_-IEOKqpqN/view?usp=sharing]
+  	
+2. Download the .pbix file from the link above and open it using Microsoft Power BI Desktop (latest version recommended).
+3. Navigate through the interactive visuals using the slicers, filters, and region/category selectors.
+4. Refresh the data connection if connected to an external database (optional).
 
 Conclusion
 This project demonstrates practical use of Power BI, SQL, and data modelling to transform raw e-commerce data into meaningful business insights improving transparency, performance tracking, and decision-making efficiency.
